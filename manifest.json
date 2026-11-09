@@ -1,0 +1,9 @@
+{
+	"id": "lecture-pro",
+	"name": "Lecture Pro",
+	"version": "0.6.0",
+	"minAppVersion": "1.11.4",
+	"description": "Verwandelt Zotero-Markierungen (Farben = Hierarchie, Sticky Notes, Bildrahmen) in eine fertige Vorlesungs-Zusammenfassung.",
+	"author": "Lecture Pro",
+	"isDesktopOnly": false
+}

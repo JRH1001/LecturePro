@@ -1,5 +1,7 @@
 # Lecture Pro
 
+English version coming soon. Yeah i know credits for Claude, but its working so far, so what do you want more :)
+
 Zotero-Markierungen → fertige Vorlesungs-Zusammenfassung in Obsidian. Ohne KI, rein algorithmisch.
 
 ## Installation
